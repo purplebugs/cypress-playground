@@ -1,0 +1,22 @@
+{
+  "name": "cypress-playground",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/purplebugs/cypress-playground.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/purplebugs/cypress-playground/issues"
+  },
+  "homepage": "https://github.com/purplebugs/cypress-playground#readme",
+  "devDependencies": {
+    "cypress": "^3.8.3"
+  }
+}
