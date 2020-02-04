@@ -20,11 +20,14 @@ This repo and test steps were done using steps from [cypress.io Getting Started]
 3. Run the tests using the WYSIWYG test runner tool
 4. Interact with Chrome after the test has run
 5. Experiment using the pause command
-6. Stop cypress.io
+6. Try running other tests
+7. Stop cypress.io
 
 ### Install the repo locally
 
 ```npm install```
+
+This will install the repo locally
 
 
 ### Launch cypress.io
@@ -72,6 +75,12 @@ Hit the "Next" button to run just the next step.
 Now hit the "Resume" button to contiue running all the steps.
 
 Now undo the changes to the file, in other words, comment out the pause statement again.
+
+
+### Try running other tests
+
+Try running other tests under the example folder by navigating back the test running and selecting one or more test to run.
+
 
 
 ### Stop cypress.io
