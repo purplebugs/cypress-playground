@@ -10,7 +10,8 @@ This repo and test steps were done using steps from [cypress.io Getting Started]
 ## Pre-Requisites
 
 1. Clone this repo
-2. Have a web connection while running the tests
+2. Install [node.js](https://nodejs.org/)
+3. Have a web connection while running the tests
 
 
 ## Steps to take
