@@ -27,8 +27,6 @@ This repo and test steps were done using steps from [cypress.io Getting Started]
 
 ```npm install```
 
-This will install the repo locally
-
 
 ### Launch cypress.io
 
