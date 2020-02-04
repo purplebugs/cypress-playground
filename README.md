@@ -26,12 +26,16 @@ This repo and test steps were done using steps from [cypress.io Getting Started]
 
 ### Install the repo locally
 
-```npm install```
+```
+npm install
+```
 
 
 ### Launch cypress.io
 
-```npm run cypress:open```
+```
+npm run cypress:open
+```
 
 
 ### Run the tests using the WYSIWYG test runner tool
@@ -40,7 +44,9 @@ The cypress test runner will open in a few moments. This is the application with
 
 Click on the 
 
-```sample_spec.js```
+```
+sample_spec.js
+```
 
 file under INTEGRATION to run the test. You might need to collapse the "examples" folder to see it.
 
@@ -59,11 +65,15 @@ Note you can click on steps to bring the browser to the state the test was in wh
 
 Uncomment out the pause command in the test so this line
 
-```// cy.pause()```
+```
+// cy.pause()
+```
 
 becomes
 
-```cy.pause()```
+```
+cy.pause()
+```
 
 Save the file.  By default the tests will start running automatically upon save.
 
