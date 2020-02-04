@@ -2,7 +2,7 @@
 
 ## Purpose
 
-Ability to try out using [cypress.io](cypress.io) in order to run and write tests towards various web elements on a web page
+Ability to try out using [cypress.io](https://docs.cypress.io) in order to run and write tests towards various web elements on a web page
 
 This repo and test steps were done using steps from [Getting Started](https://docs.cypress.io/guides/getting-started/installing-cypress.html)
 
